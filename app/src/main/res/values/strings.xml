@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="high">High: %s</string>
+    <string name="low">Low: %s</string>
+</resources>
